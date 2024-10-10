@@ -1,0 +1,7 @@
+test.php
+vendor
+session
+.venv
+test
+
+config.py
